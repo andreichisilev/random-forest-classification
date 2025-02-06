@@ -45,15 +45,6 @@ This project analyzes the "Airline Passenger Satisfaction" dataset using classif
 - Apply t-SNE to visualize high-dimensional data in a 2D space
 - Scatter plot to compare satisfied vs. unsatisfied passengers
 
-## How to Run the Code
-1. Install dependencies:
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn kagglehub pydot
-   ```
-2. Run the script:
-   ```bash
-   python classification.py
-   ```
 
 ## Results
 - Random Forest achieved high classification accuracy.
